@@ -10,6 +10,6 @@ The script is developed to play mp3 file completely on motion through opencv.
 	3. imutils
 	4. threading
 	5. os
-  6. mpg123
-
+	6. mpg123
+  
 Thank you, Enjoy!
